@@ -1,0 +1,8 @@
+.course {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.link {
+  text-decoration: none;
+}
